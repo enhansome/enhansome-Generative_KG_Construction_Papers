@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "description": "[:bell: News! :bell: ] We have released a new survey paper:\"Generative Knowledge Graph Construction: A Review\" based on this repository, with a perspective of existing Generative Knowledge Graph Construction! We are looking forward to any comments or discussions on this topic :)",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "Generative Knowledge Graph Construction (KGC) refers to those methods that leverage the sequence-to-sequence framework for building knowledge graphs, which is flexible and can be adapted to widespread tasks. In this study, we summarize the recent compelling progress in generative knowledge graph construction. We present the advantages and weaknesses of each paradigm in terms of different generation targets and provide theoretical insight and empirical analysis. Based on the review, we suggest promising research directions for the future. Our contributions are threefold: (1) We present a detailed, complete taxonomy for the generative KGC methods; (2) We provide a theoretical and empirical analysis of the generative KGC methods; (3) We propose several research directions that can be developed in the future. For more resources about knowledge graph construction, please check our tookit DeepKE.",
+      "items": [],
+      "title": "🕵️ Introduction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "We release DeepKE-LLM",
+          "description": "to support knowledge extraction with KnowLM, ChatGLM, LLaMA-series, GPT-series etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T16:40:58Z",
+            "owner": "zjunlp",
+            "repo": "DeepKE",
+            "stars": 4462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "We release EasyEdit",
+          "description": ", an easy-to-use framework to edit Large Language Models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-14T12:47:07Z",
+            "owner": "zjunlp",
+            "repo": "EasyEdit",
+            "stars": 2897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "We release a survey",
+          "description": "and paper-list for reasoning with language model prompting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-21T06:44:22Z",
+            "owner": "zjunlp",
+            "repo": "Prompt4ReasoningPapers",
+            "stars": 1008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "We release a prompt&KG paper-list at PromptKG",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-22T02:35:50Z",
+            "owner": "zjunlp",
+            "repo": "PromptKG",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "We release Eng/Cn slides at Silde file",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-11T10:37:38Z",
+            "owner": "zjunlp",
+            "repo": "Generative_KG_Construction_Papers",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "👋 News!"
+    },
+    {
+      "description": "If you find this survey useful for your research, please consider citing",
+      "items": [],
+      "title": "🚩Citation"
+    },
+    {
+      "description": "In this Survey, we summarize recent progress in generative KGC. We propose to organize relevant work by the generation target of models and also present the axis of the task level.",
+      "items": [],
+      "title": "🏳‍🌈 A Taxonomy of Current Methods"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🏆 A List of Survey Papers"
+    },
+    {
+      "description": "The time for each paper is based on its first arXiv version (if exists) or estimated submission time.",
+      "items": [],
+      "title": "🕚 A Timeline of generative KGC."
+    },
+    {
+      "description": "If you find this repository useful to your research or work, it is really appreciate to star this repository.",
+      "items": [],
+      "title": "🌟 TIPS"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:29.350Z",
+    "original_repository": "zjunlp/Generative_KG_Construction_Papers",
+    "original_repository_sha": "05467abf59ce842e519ebd2ff0687fe125ced4b5",
+    "enhanced_repository": "enhansome/enhansome-Generative_KG_Construction_Papers",
+    "enhanced_repository_description": null,
+    "title": "Awesome Generative KG Construction Papers with stars"
+  }
+}
