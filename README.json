@@ -66,7 +66,7 @@
             "last_commit": "2024-03-22T02:35:50Z",
             "owner": "zjunlp",
             "repo": "PromptKG",
-            "stars": 735
+            "stars": 734
           }
         },
         {
@@ -113,7 +113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:08:29.350Z",
+    "last_updated": "2026-08-13T11:35:25.506Z",
     "original_repository": "zjunlp/Generative_KG_Construction_Papers",
     "original_repository_sha": "05467abf59ce842e519ebd2ff0687fe125ced4b5",
     "enhanced_repository": "enhansome/enhansome-Generative_KG_Construction_Papers",
