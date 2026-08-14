@@ -24,7 +24,7 @@
             "last_commit": "2026-07-13T16:40:58Z",
             "owner": "zjunlp",
             "repo": "DeepKE",
-            "stars": 4462
+            "stars": 4464
           }
         },
         {
@@ -113,7 +113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:35:25.506Z",
+    "last_updated": "2026-08-14T11:33:41.212Z",
     "original_repository": "zjunlp/Generative_KG_Construction_Papers",
     "original_repository_sha": "05467abf59ce842e519ebd2ff0687fe125ced4b5",
     "enhanced_repository": "enhansome/enhansome-Generative_KG_Construction_Papers",
