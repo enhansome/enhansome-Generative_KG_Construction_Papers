@@ -30,14 +30,14 @@ We present the advantages and weaknesses of each paradigm in terms of different 
 Based on the review, we suggest promising research directions for the future. Our contributions are threefold: (1) We present a detailed, complete taxonomy for the generative KGC methods;
 (2) We provide a theoretical and empirical analysis of the generative KGC methods;
 (3) We propose several research directions that can be developed in the future.
-For more resources about knowledge graph construction, please check our tookit [DeepKE](https://github.com/zjunlp/DeepKE) ⭐ 4,464 | 🐛 0 | 🌐 Python | 📅 2026-07-13.
+For more resources about knowledge graph construction, please check our tookit [DeepKE](https://github.com/zjunlp/DeepKE) ⭐ 4,463 | 🐛 0 | 🌐 Python | 📅 2026-07-13.
 
 ## *👋 News!*
 
-* We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,464 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,386 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,989 | 🐛 607 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
-* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,895 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-14, an easy-to-use framework to edit Large Language Models.
+* We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,463 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,386 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,989 | 🐛 607 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
+* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,896 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-14, an easy-to-use framework to edit Large Language Models.
 * We release a [survey](https://arxiv.org/abs/2212.09597) and [paper-list](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,008 | 🐛 0 | 📅 2025-05-21 for **reasoning with language model prompting**.
-* We release a prompt\&KG paper-list at [PromptKG](https://github.com/zjunlp/PromptKG) ⭐ 734 | 🐛 1 | 🌐 Python | 📅 2024-03-22.
+* We release a prompt\&KG paper-list at [PromptKG](https://github.com/zjunlp/PromptKG) ⭐ 734 | 🐛 0 | 🌐 Python | 📅 2024-03-22.
 * We release Eng/Cn slides at [*Silde file*](https://github.com/zjunlp/Generative_KG_Construction_Papers/tree/main/slide) ⭐ 112 | 🐛 0 | 📅 2023-07-11.
 * Congratulations! Our work has been accepted by the EMNLP2022 main conference.
 * Due to the rise of generative extraction methods in the NLP community，we summarize recent progress in generative KGC and release our paper  on [arivx](https://arxiv.org/pdf/2210.12714.pdf).
@@ -370,7 +370,7 @@ The time for each paper is based on its first arXiv version (if exists) or estim
 | [ClarET: Pre-training a Correlation-Aware Context-To-Event Transformer for Event-Centric Generation and Classification](https://aclanthology.org/2022.acl-long.183/) |      Blank-based     |   ACL 2022  |                                                          -                                                         |
 | [Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning](https://aclanthology.org/2022.acl-long.85/)             | Structure-linearized |   ACL 2022  |          [HuSe-Gen](https://github.com/swarnaHub/ExplagraphGen) ⭐ 10 \| 🐛 2 \| 🌐 Python \| 📅 2022-04-29         |
 | [Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking](https://aclanthology.org/2022.findings-acl.292/)                          | Structure-linearized |   ACL 2022  |                  [EPGEL](https://github.com/laituan245/EL-Dockers/) ⭐ 25 \| 🐛 0 \| 📅 2023-07-15                  |
-| [From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer](https://dl.acm.org/doi/10.1145/3487553.3524238)                          | Structure-linearized |   WWW 2022  | [GenKGC](https://github.com/zjunlp/PromptKG/tree/main/research/GenKGC) ⭐ 734 \| 🐛 1 \| 🌐 Python \| 📅 2024-03-22 |
+| [From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer](https://dl.acm.org/doi/10.1145/3487553.3524238)                          | Structure-linearized |   WWW 2022  | [GenKGC](https://github.com/zjunlp/PromptKG/tree/main/research/GenKGC) ⭐ 734 \| 🐛 0 \| 🌐 Python \| 📅 2024-03-22 |
 | [SQUIRE: A Sequence-to-sequence Framework for Multi-hop Knowledge Graph Reasoning](https://arxiv.org/abs/2201.06206)                                                 | Structure-linearized |  EMNLP 2022 |                                                          -                                                         |
 | [REBEL: Relation Extraction By End-to-end Language generation](https://aclanthology.org/2021.findings-emnlp.204/)                                                    | Structure-linearized |  EMNLP 2021 |              [REBEL](https://github.com/babelscape/rebel) ⭐ 574 \| 🐛 13 \| 🌐 Python \| 📅 2023-11-09             |
 | [Document-level Entity-based Extraction as Template Generation](https://aclanthology.org/2021.emnlp-main.426/)                                                       |      Copy-based      |  EMNLP 2021 |             [TEMPGEN](https://github.com/PlusLabNLP/TempGen) ⭐ 29 \| 🐛 2 \| 🌐 Python \| 📅 2021-09-23            |
@@ -402,4 +402,4 @@ If you find this repository useful to your research or work, it is really apprec
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
