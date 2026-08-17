@@ -38,7 +38,7 @@
             "last_commit": "2026-07-14T12:47:07Z",
             "owner": "zjunlp",
             "repo": "EasyEdit",
-            "stars": 2896
+            "stars": 2899
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2025-05-21T06:44:22Z",
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1008
+            "stars": 1007
           }
         },
         {
@@ -113,7 +113,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:05:27.805Z",
+    "last_updated": "2026-08-17T11:12:27.236Z",
     "original_repository": "zjunlp/Generative_KG_Construction_Papers",
     "original_repository_sha": "05467abf59ce842e519ebd2ff0687fe125ced4b5",
     "enhanced_repository": "enhansome/enhansome-Generative_KG_Construction_Papers",
