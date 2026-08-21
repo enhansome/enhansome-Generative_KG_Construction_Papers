@@ -30,12 +30,12 @@ We present the advantages and weaknesses of each paradigm in terms of different 
 Based on the review, we suggest promising research directions for the future. Our contributions are threefold: (1) We present a detailed, complete taxonomy for the generative KGC methods;
 (2) We provide a theoretical and empirical analysis of the generative KGC methods;
 (3) We propose several research directions that can be developed in the future.
-For more resources about knowledge graph construction, please check our tookit [DeepKE](https://github.com/zjunlp/DeepKE) ⭐ 4,469 | 🐛 0 | 🌐 Python | 📅 2026-07-13.
+For more resources about knowledge graph construction, please check our tookit [DeepKE](https://github.com/zjunlp/DeepKE) ⭐ 4,470 | 🐛 0 | 🌐 Python | 📅 2026-07-13.
 
 ## *👋 News!*
 
-* We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,469 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,386 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,988 | 🐛 605 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
-* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,899 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-14, an easy-to-use framework to edit Large Language Models.
+* We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,470 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,386 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,985 | 🐛 605 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
+* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,900 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-14, an easy-to-use framework to edit Large Language Models.
 * We release a [survey](https://arxiv.org/abs/2212.09597) and [paper-list](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,006 | 🐛 0 | 📅 2025-05-21 for **reasoning with language model prompting**.
 * We release a prompt\&KG paper-list at [PromptKG](https://github.com/zjunlp/PromptKG) ⭐ 733 | 🐛 0 | 🌐 Python | 📅 2024-03-22.
 * We release Eng/Cn slides at [*Silde file*](https://github.com/zjunlp/Generative_KG_Construction_Papers/tree/main/slide) ⭐ 112 | 🐛 0 | 📅 2023-07-11.
@@ -402,4 +402,4 @@ If you find this repository useful to your research or work, it is really apprec
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
