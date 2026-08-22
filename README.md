@@ -35,7 +35,7 @@ For more resources about knowledge graph construction, please check our tookit [
 ## *👋 News!*
 
 * We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,470 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,386 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,985 | 🐛 605 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
-* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,900 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-14, an easy-to-use framework to edit Large Language Models.
+* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,901 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-14, an easy-to-use framework to edit Large Language Models.
 * We release a [survey](https://arxiv.org/abs/2212.09597) and [paper-list](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,006 | 🐛 0 | 📅 2025-05-21 for **reasoning with language model prompting**.
 * We release a prompt\&KG paper-list at [PromptKG](https://github.com/zjunlp/PromptKG) ⭐ 733 | 🐛 0 | 🌐 Python | 📅 2024-03-22.
 * We release Eng/Cn slides at [*Silde file*](https://github.com/zjunlp/Generative_KG_Construction_Papers/tree/main/slide) ⭐ 112 | 🐛 0 | 📅 2023-07-11.
@@ -402,4 +402,4 @@ If you find this repository useful to your research or work, it is really apprec
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
