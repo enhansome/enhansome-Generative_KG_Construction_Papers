@@ -80,10 +80,451 @@
         }
       ],
       "title": "👋 News!"
+    },
+    {
+      "description": "The time for each paper is based on its first arXiv version (if exists) or estimated submission time.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Code4Struct: Code Generation for Few-Shot Structured Prediction from Natural Language",
+          "description": "Structure-linearized arXiv 2022 CODE4STRUCT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 555668119,
+            "language": "HTML",
+            "last_commit": "2024-01-07T02:16:29Z",
+            "owner": "xingyaoww",
+            "repo": "code4struct",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autoregressive Structured Prediction with Language Models",
+          "description": "Label-augmented EMNLP 2022 ASP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 557957645,
+            "language": "Python",
+            "last_commit": "2024-01-22T11:53:09Z",
+            "owner": "lyutyuh",
+            "repo": "ASP",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text-to-Text Extraction and Verbalization of Biomedical Event Graphs",
+          "description": "Structure-linearized COLING 2022 BioT2E",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 558877730,
+            "language": "Python",
+            "last_commit": "2022-11-05T12:27:38Z",
+            "owner": "disi-unibo-nlp",
+            "repo": "bio-ee-egv",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion",
+          "description": "Structure-linearized COLING 2022 KG-S2S",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 534991221,
+            "language": "Python",
+            "last_commit": "2022-11-01T16:41:24Z",
+            "owner": "chenchens190009",
+            "repo": "KG-S2S",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A sequence-to-sequence approach for document-level relation extraction",
+          "description": "Copy-based BioNLP 2022 Seq2rel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 327695506,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-27T17:53:02Z",
+            "owner": "JohnGiorgi",
+            "repo": "seq2rel",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unified Structure Generation for Universal Information Extraction",
+          "description": "Structure-linearized ACL 2022 UIE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 482491448,
+            "language": "Python",
+            "last_commit": "2022-07-30T14:21:04Z",
+            "owner": "universal-ie",
+            "repo": "UIE",
+            "stars": 953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sequence-to-Sequence Knowledge Graph Completion and Question Answering",
+          "description": "Structure-linearized ACL 2022 KGT5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 358606679,
+            "language": "Python",
+            "last_commit": "2023-11-27T16:40:23Z",
+            "owner": "apoorvumang",
+            "repo": "kgt5",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction",
+          "description": "Blank-based ACL 2022 PAIE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 477631581,
+            "language": "Python",
+            "last_commit": "2023-05-05T03:52:43Z",
+            "owner": "mayubo2333",
+            "repo": "PAIE",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepStruct: Pretraining of Language Models for Structure Prediction",
+          "description": "Structure-linearized ACL 2022 DeepStruct",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 494653281,
+            "language": "Python",
+            "last_commit": "2023-01-16T01:43:32Z",
+            "owner": "wang-research-lab",
+            "repo": "deepstruct",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction",
+          "description": "Blank-based ACL 2022 X-GEAR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 470813477,
+            "language": "Python",
+            "last_commit": "2024-06-24T07:08:06Z",
+            "owner": "PlusLabNLP",
+            "repo": "X-Gear",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning",
+          "description": "Structure-linearized ACL 2022 HuSe-Gen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 478999473,
+            "language": "Python",
+            "last_commit": "2022-04-29T21:43:43Z",
+            "owner": "swarnaHub",
+            "repo": "ExplagraphGen",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking",
+          "description": "Structure-linearized ACL 2022 EPGEL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 436054405,
+            "language": null,
+            "last_commit": "2023-07-15T18:13:07Z",
+            "owner": "laituan245",
+            "repo": "EL-Dockers",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer",
+          "description": "Structure-linearized WWW 2022 GenKGC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 439524277,
+            "language": "Python",
+            "last_commit": "2024-03-22T02:35:50Z",
+            "owner": "zjunlp",
+            "repo": "PromptKG",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REBEL: Relation Extraction By End-to-end Language generation",
+          "description": "Structure-linearized EMNLP 2021 REBEL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 403631098,
+            "language": "Python",
+            "last_commit": "2023-11-09T09:42:11Z",
+            "owner": "Babelscape",
+            "repo": "rebel",
+            "stars": 574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Document-level Entity-based Extraction as Template Generation",
+          "description": "Copy-based EMNLP 2021 TEMPGEN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 392433069,
+            "language": "Python",
+            "last_commit": "2021-09-23T01:58:11Z",
+            "owner": "PlusLabNLP",
+            "repo": "TempGen",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DEGREE: A Data-Efficient Generation-Based Event Extraction Model",
+          "description": "Blank-based NAACL 2022 DEGREE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 479270586,
+            "language": "Python",
+            "last_commit": "2024-06-25T01:54:20Z",
+            "owner": "PlusLabNLP",
+            "repo": "DEGREE",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HySPA: Hybrid Span Generation for Scalable Text-to-Graph Extraction",
+          "description": "Structure-linearized ACL 2021 HySPA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 379331037,
+            "language": "Python",
+            "last_commit": "2021-09-16T00:04:09Z",
+            "owner": "renll",
+            "repo": "HySPA",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction",
+          "description": "Structure-linearized ACL 2021 Text2Event",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368449104,
+            "language": "Python",
+            "last_commit": "2022-07-12T15:00:21Z",
+            "owner": "luyaojie",
+            "repo": "Text2Event",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Template Filling with Generative Transformers",
+          "description": "Blank-based NAACL 2021 GTT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 354664109,
+            "language": "Python",
+            "last_commit": "2021-06-08T14:23:40Z",
+            "owner": "xinyadu",
+            "repo": "gtt",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Unified Generative Framework for Aspect-based Sentiment Analysis",
+          "description": "Indice-based ACL 2021 BARTABSA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 370090520,
+            "language": "Python",
+            "last_commit": "2022-06-23T09:00:06Z",
+            "owner": "yhcc",
+            "repo": "BARTABSA",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Unified Generative Framework for Various NER Subtasks",
+          "description": "Indice-based ACL 2021 BARTNER",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 370090575,
+            "language": "Python",
+            "last_commit": "2022-08-22T08:42:39Z",
+            "owner": "yhcc",
+            "repo": "BARTNER",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GRIT: Generative Role-filler Transformers for Document-level Event Entity Extraction",
+          "description": "Indice-based EACL2021 GRIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 288339013,
+            "language": "Python",
+            "last_commit": "2021-04-10T17:39:53Z",
+            "owner": "xinyadu",
+            "repo": "grit_doc_event_entity",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Document-Level Event Argument Extraction by Conditional Generation",
+          "description": "Blank-based NAACL 2021 BART-Gen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357036112,
+            "language": "HTML",
+            "last_commit": "2023-03-28T02:03:45Z",
+            "owner": "raspberryice",
+            "repo": "gen-arg",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Structured Prediction as Translation between Augmented Natural Languages",
+          "description": "Label-augmented ICLR 2021 TANL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 344601437,
+            "language": "Python",
+            "last_commit": "2022-02-02T19:58:38Z",
+            "owner": "amazon-science",
+            "repo": "tanl",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intent Classification and Slot Filling for Privacy Policies",
+          "description": "Structure-linearized ACL 2021 PolicyIE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325396776,
+            "language": "Python",
+            "last_commit": "2021-08-04T00:34:05Z",
+            "owner": "wasiahmad",
+            "repo": "PolicyIE",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autoregressive Entity Retrieval",
+          "description": "Label-augmented ICLR 2021 GENRE",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 301511303,
+            "language": "Python",
+            "last_commit": "2023-07-06T06:48:28Z",
+            "owner": "facebookresearch",
+            "repo": "GENRE",
+            "stars": 801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CopyMTL: Copy Mechanism for Joint Extraction of Entities and Relations with Multi-Task Learning",
+          "description": "Copy-based AAAI 2020 CopyMTL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150834182,
+            "language": "Python",
+            "last_commit": "2020-11-05T10:57:11Z",
+            "owner": "WindChimeRan",
+            "repo": "CopyMTL",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Effective Modeling of Encoder-Decoder Architecture for Joint Entity and Relation Extraction",
+          "description": "Indice-based AAAI 2020 PNDec",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 220907894,
+            "language": "Python",
+            "last_commit": "2020-02-28T03:08:23Z",
+            "owner": "nusnlp",
+            "repo": "PtrNetDecoding4JERE",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COMET: Commonsense Transformers for Automatic Knowledge Graph Construction",
+          "description": "Blank-based ACL 2019 COMET",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190039121,
+            "language": "Python",
+            "last_commit": "2022-11-17T17:14:24Z",
+            "owner": "atcbosselut",
+            "repo": "comet-commonsense",
+            "stars": 689
+          }
+        }
+      ],
+      "title": "🕚 A Timeline of generative KGC."
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:15:11.859Z",
+    "last_updated": "2026-08-24T14:41:04.722Z",
     "original_repository": "zjunlp/Generative_KG_Construction_Papers",
     "original_repository_id": 454682725,
     "original_repository_sha": "05467abf59ce842e519ebd2ff0687fe125ced4b5",
