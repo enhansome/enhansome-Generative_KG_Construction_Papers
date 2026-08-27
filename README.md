@@ -34,8 +34,8 @@ For more resources about knowledge graph construction, please check our tookit [
 
 ## *👋 News!*
 
-* We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,472 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,386 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,981 | 🐛 605 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
-* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,906 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-14, an easy-to-use framework to edit Large Language Models.
+* We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,472 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,386 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,982 | 🐛 605 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
+* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,908 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-14, an easy-to-use framework to edit Large Language Models.
 * We release a [survey](https://arxiv.org/abs/2212.09597) and [paper-list](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,006 | 🐛 0 | 📅 2025-05-21 for **reasoning with language model prompting**.
 * We release a prompt\&KG paper-list at [PromptKG](https://github.com/zjunlp/PromptKG) ⭐ 733 | 🐛 0 | 🌐 Python | 📅 2024-03-22.
 * We release Eng/Cn slides at [*Silde file*](https://github.com/zjunlp/Generative_KG_Construction_Papers/tree/main/slide) ⭐ 112 | 🐛 0 | 📅 2023-07-11.
@@ -362,7 +362,7 @@ The time for each paper is based on its first arXiv version (if exists) or estim
 | [A sequence-to-sequence approach for document-level relation extraction](https://aclanthology.org/2022.bionlp-1.2/)                                                  |      Copy-based      | BioNLP 2022 |       [Seq2rel](https://github.com/johngiorgi/seq2rel) ⭐ 64 \| 🐛 19 \| 🌐 Jupyter Notebook \| 📅 2024-05-27       |
 | [Unified Structure Generation for Universal Information Extraction](https://aclanthology.org/2022.acl-long.395/)                                                     | Structure-linearized |   ACL 2022  |               [UIE](https://github.com/universal-ie/UIE) ⭐ 953 \| 🐛 39 \| 🌐 Python \| 📅 2022-07-30              |
 | [Sequence-to-Sequence Knowledge Graph Completion and Question Answering](https://aclanthology.org/2022.acl-long.201)                                                 | Structure-linearized |   ACL 2022  |              [KGT5](https://github.com/apoorvumang/kgt5) ⭐ 105 \| 🐛 16 \| 🌐 Python \| 📅 2023-11-27              |
-| [Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction](https://aclanthology.org/2022.acl-long.466/)                             |      Blank-based     |   ACL 2022  |               [PAIE](https://github.com/mayubo2333/PAIE) ⭐ 144 \| 🐛 0 \| 🌐 Python \| 📅 2023-05-05               |
+| [Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction](https://aclanthology.org/2022.acl-long.466/)                             |      Blank-based     |   ACL 2022  |               [PAIE](https://github.com/mayubo2333/PAIE) ⭐ 145 \| 🐛 0 \| 🌐 Python \| 📅 2023-05-05               |
 | [De-Bias for Generative Extraction in Unified NER Task](https://aclanthology.org/2022.acl-long.59/)                                                                  | Structure-linearized |   ACL 2022  |                                                          -                                                         |
 | [DeepStruct: Pretraining of Language Models for Structure Prediction](https://aclanthology.org/2022.findings-acl.67/)                                                | Structure-linearized |   ACL 2022  |          [DeepStruct](https://github.com/cgraywang/deepstruct) ⭐ 85 \| 🐛 5 \| 🌐 Python \| 📅 2023-01-16          |
 | [Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction](https://aclanthology.org/2022.acl-long.317/)                         |      Blank-based     |   ACL 2022  |              [X-GEAR](https://github.com/PlusLabNLP/X-Gear) ⭐ 20 \| 🐛 0 \| 🌐 Python \| 📅 2024-06-24             |
@@ -402,4 +402,4 @@ If you find this repository useful to your research or work, it is really apprec
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

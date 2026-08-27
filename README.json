@@ -30,7 +30,7 @@
             "last_commit": "2026-07-14T12:47:07Z",
             "owner": "zjunlp",
             "repo": "EasyEdit",
-            "stars": 2906
+            "stars": 2908
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2023-05-05T03:52:43Z",
             "owner": "mayubo2333",
             "repo": "PAIE",
-            "stars": 144
+            "stars": 145
           }
         },
         {
@@ -524,9 +524,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:16:16.408Z",
-    "original_repository": "zjunlp/Generative_KG_Construction_Papers",
-    "original_repository_id": 454682725,
+    "last_updated": "2026-08-27T11:39:13.249Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 454682725,
+      "language": null,
+      "last_commit": "2023-07-11T10:37:38Z",
+      "owner": "zjunlp",
+      "repo": "Generative_KG_Construction_Papers",
+      "stars": 112
+    },
     "original_repository_sha": "05467abf59ce842e519ebd2ff0687fe125ced4b5",
     "enhanced_repository": "enhansome/enhansome-Generative_KG_Construction_Papers",
     "enhanced_repository_description": null,
