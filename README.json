@@ -15,8 +15,9 @@
             "last_commit": "2026-07-13T16:40:58Z",
             "owner": "zjunlp",
             "repo": "DeepKE",
-            "stars": 4473
-          }
+            "stars": 4474
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "zjunlp",
             "repo": "EasyEdit",
             "stars": 2909
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
             "stars": 1006
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "zjunlp",
             "repo": "PromptKG",
             "stars": 733
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "zjunlp",
             "repo": "Generative_KG_Construction_Papers",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         }
       ],
       "title": "👋 News!"
@@ -97,7 +102,8 @@
             "owner": "xingyaoww",
             "repo": "code4struct",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "lyutyuh",
             "repo": "ASP",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "disi-unibo-nlp",
             "repo": "bio-ee-egv",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "chenchens190009",
             "repo": "KG-S2S",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "JohnGiorgi",
             "repo": "seq2rel",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "universal-ie",
             "repo": "UIE",
             "stars": 953
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "apoorvumang",
             "repo": "kgt5",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "mayubo2333",
             "repo": "PAIE",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "wang-research-lab",
             "repo": "deepstruct",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "PlusLabNLP",
             "repo": "X-Gear",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "swarnaHub",
             "repo": "ExplagraphGen",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "laituan245",
             "repo": "EL-Dockers",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "zjunlp",
             "repo": "PromptKG",
             "stars": 733
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "Babelscape",
             "repo": "rebel",
             "stars": 574
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "PlusLabNLP",
             "repo": "TempGen",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "PlusLabNLP",
             "repo": "DEGREE",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "renll",
             "repo": "HySPA",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "luyaojie",
             "repo": "Text2Event",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "xinyadu",
             "repo": "gtt",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "yhcc",
             "repo": "BARTABSA",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "yhcc",
             "repo": "BARTNER",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "xinyadu",
             "repo": "grit_doc_event_entity",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "raspberryice",
             "repo": "gen-arg",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "amazon-science",
             "repo": "tanl",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "wasiahmad",
             "repo": "PolicyIE",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "facebookresearch",
             "repo": "GENRE",
             "stars": 801
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "WindChimeRan",
             "repo": "CopyMTL",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "nusnlp",
             "repo": "PtrNetDecoding4JERE",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         },
         {
           "node_type": "item",
@@ -517,14 +550,15 @@
             "owner": "atcbosselut",
             "repo": "comet-commonsense",
             "stars": 689
-          }
+          },
+          "first_seen": "2026-08-28T21:15:27.488Z"
         }
       ],
       "title": "🕚 A Timeline of generative KGC."
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:48:37.180Z",
+    "last_updated": "2026-08-28T21:15:27.488Z",
     "original_repository_info": {
       "archived": false,
       "id": 454682725,
