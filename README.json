@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[EMNLP 2022] An Open Toolkit for Knowledge Graph Extraction and Construction",
+            "homepage": "http://deepke.zjukg.cn/",
             "id": 143090423,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-13T16:40:58Z",
+            "open_issues": 0,
             "owner": "zjunlp",
             "repo": "DeepKE",
-            "stars": 4474
+            "stars": 4475,
+            "topics": [
+              "attribute-extraction",
+              "chinese",
+              "deep-learning",
+              "deepke",
+              "document-level",
+              "few-shot",
+              "information-extraction",
+              "instructie",
+              "kg",
+              "knowledge-graph",
+              "knowprompt",
+              "lightner",
+              "low-resource",
+              "multi-modal",
+              "named-entity-recognition",
+              "ner",
+              "nlp",
+              "prompt",
+              "pytorch",
+              "relation-extraction"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -26,12 +52,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.",
+            "homepage": "https://zjunlp.github.io/project/KnowEdit",
             "id": 638156745,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-07-14T12:47:07Z",
+            "open_issues": 0,
             "owner": "zjunlp",
             "repo": "EasyEdit",
-            "stars": 2909
+            "stars": 2909,
+            "topics": [
+              "artificial-intelligence",
+              "baichuan",
+              "chatgpt",
+              "cknowedit",
+              "easyedit",
+              "easyedit2",
+              "efficient",
+              "gpt",
+              "knowedit",
+              "knowledge-editing",
+              "knowlm",
+              "large-language-models",
+              "llama",
+              "mmedit",
+              "model-editing",
+              "natural-language-processing",
+              "safeedit",
+              "tool",
+              "trustworthy-ai",
+              "unlearning"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -42,12 +94,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2023] Reasoning with Language Model Prompting: A Survey",
+            "homepage": null,
             "id": 536490220,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-05-21T06:44:22Z",
+            "open_issues": 0,
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1006
+            "stars": 1006,
+            "topics": [
+              "arithmetic-reasoning",
+              "artificial-intelligence",
+              "awsome-list",
+              "chain-of-thought",
+              "chatgpt",
+              "commonsense-reasoning",
+              "datasets",
+              "gpt-3",
+              "language-models",
+              "large-language-models",
+              "llm",
+              "logical-reasoning",
+              "natural-language-processing",
+              "nlp",
+              "paper-list",
+              "prompt",
+              "prompt-engineering",
+              "reasoning",
+              "survey",
+              "symbolic-reasoning"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -58,12 +136,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PromptKG Family: a Gallery of Prompt Learning & KG-related research works, toolkits, and paper-list.",
+            "homepage": "https://zjunlp.github.io/project/promptkg",
             "id": 439524277,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-22T02:35:50Z",
+            "open_issues": 0,
             "owner": "zjunlp",
             "repo": "PromptKG",
-            "stars": 733
+            "stars": 733,
+            "topics": [
+              "awsome-list",
+              "demo-tuning",
+              "dialogue",
+              "genkgc",
+              "knowledge-graph",
+              "knowledge-informed-prompt-learning",
+              "lambdakg",
+              "link-prediction",
+              "natural-language-processing",
+              "nlp",
+              "paper",
+              "paper-list",
+              "prompt-tuning",
+              "promptkg",
+              "pytorch",
+              "question-answering",
+              "relation-extraction",
+              "retrieval-augmented",
+              "retrievalre",
+              "retroprompt"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -74,12 +178,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[EMNLP 2022] Generative Knowledge Graph Construction: A Review",
+            "homepage": null,
             "id": 454682725,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-07-11T10:37:38Z",
+            "open_issues": 0,
             "owner": "zjunlp",
             "repo": "Generative_KG_Construction_Papers",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "awesome-list",
+              "chatgpt",
+              "event-extraction",
+              "generation",
+              "generative",
+              "genkgc",
+              "information-extraction",
+              "information-extration",
+              "knowledge-graph",
+              "named-entity-recognition",
+              "natural-language-generation",
+              "natural-language-processing",
+              "nlp",
+              "paper",
+              "paper-list",
+              "relation-extraction",
+              "relational-triple-extraction",
+              "review",
+              "structure-prediction",
+              "survey"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         }
@@ -96,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for ACL 2023 paper Code4Struct: Code Generation for Few-Shot Structured Prediction from Natural Language.",
+            "homepage": null,
             "id": 555668119,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-07T02:16:29Z",
+            "open_issues": 0,
             "owner": "xingyaoww",
             "repo": "code4struct",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -112,12 +247,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation and pre-trained models for ASP - Autoregressive Structured Prediction with Language Models, EMNLP 22. https://arxiv.org/pdf/2210.14698.pdf",
+            "homepage": null,
             "id": 557957645,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-22T11:53:09Z",
+            "open_issues": 13,
             "owner": "lyutyuh",
             "repo": "ASP",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "coreference-resolution",
+              "emnlp2022",
+              "huggingface",
+              "information-extraction",
+              "named-entity-recognition",
+              "natural-language-processing",
+              "pytorch",
+              "pytorch-implementation",
+              "relation-extraction",
+              "structured-prediction",
+              "t5",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -128,12 +281,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[COLING22] Text-to-Text Extraction and Verbalization of Biomedical Event Graphs",
+            "homepage": null,
             "id": 558877730,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-05T12:27:38Z",
+            "open_issues": 0,
             "owner": "disi-unibo-nlp",
             "repo": "bio-ee-egv",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "biomedical-text-mining",
+              "data-to-text",
+              "event-extraction",
+              "graph-to-text",
+              "graph-verbalization",
+              "nlp",
+              "semantic-parsing",
+              "text-to-graph",
+              "text-to-text-transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -144,12 +312,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "COLING 2022: Knowledge Is Flat: A Seq2Seq Generative framework For Various Knowledge Graph Completion",
+            "homepage": null,
             "id": 534991221,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-01T16:41:24Z",
+            "open_issues": 4,
             "owner": "chenchens190009",
             "repo": "KG-S2S",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -160,12 +333,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The corresponding code for our paper: A sequence-to-sequence approach for document-level relation extraction.",
+            "homepage": "https://share.streamlit.io/johngiorgi/seq2rel/main/demo.py",
             "id": 327695506,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-27T17:53:02Z",
+            "open_issues": 19,
             "owner": "JohnGiorgi",
             "repo": "seq2rel",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "allen",
+              "coreference-resolution",
+              "entity-extraction",
+              "information-extraction",
+              "named-entity-recognition",
+              "pytorch",
+              "relation-extraction",
+              "seq2rel",
+              "seq2seq"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -176,12 +364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unified Structure Generation for Universal Information Extraction",
+            "homepage": null,
             "id": 482491448,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-30T14:21:04Z",
+            "open_issues": 39,
             "owner": "universal-ie",
             "repo": "UIE",
-            "stars": 953
+            "stars": 953,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -192,12 +385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ACL 2022: Sequence-to-Sequence Knowledge Graph Completion and Question Answering (KGT5)",
+            "homepage": null,
             "id": 358606679,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-27T16:40:23Z",
+            "open_issues": 16,
             "owner": "apoorvumang",
             "repo": "kgt5",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -208,12 +406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ACL'2022: Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction",
+            "homepage": null,
             "id": 477631581,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-05T03:52:43Z",
+            "open_issues": 0,
             "owner": "mayubo2333",
             "repo": "PAIE",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -224,12 +427,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repo for ACL22 paper \"DeepStruct: Pretraining of Language Models for Structure Prediction\"",
+            "homepage": "https://arxiv.org/pdf/2205.10475.pdf",
             "id": 494653281,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-16T01:43:32Z",
+            "open_issues": 5,
             "owner": "wang-research-lab",
             "repo": "deepstruct",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -240,12 +448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our ACL-2022 paper \"Multilingual Generative Language Models for Zero-Shot Cross-Lingual Event Argument Extraction\".",
+            "homepage": null,
             "id": 470813477,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-24T07:08:06Z",
+            "open_issues": 0,
             "owner": "PlusLabNLP",
             "repo": "X-Gear",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -256,12 +469,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2022] PyTorch code for Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning",
+            "homepage": null,
             "id": 478999473,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-29T21:43:43Z",
+            "open_issues": 2,
             "owner": "swarnaHub",
             "repo": "ExplagraphGen",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -272,12 +490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 436054405,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-15T18:13:07Z",
+            "open_issues": 0,
             "owner": "laituan245",
             "repo": "EL-Dockers",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -288,12 +511,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PromptKG Family: a Gallery of Prompt Learning & KG-related research works, toolkits, and paper-list.",
+            "homepage": "https://zjunlp.github.io/project/promptkg",
             "id": 439524277,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-22T02:35:50Z",
+            "open_issues": 0,
             "owner": "zjunlp",
             "repo": "PromptKG",
-            "stars": 733
+            "stars": 733,
+            "topics": [
+              "awsome-list",
+              "demo-tuning",
+              "dialogue",
+              "genkgc",
+              "knowledge-graph",
+              "knowledge-informed-prompt-learning",
+              "lambdakg",
+              "link-prediction",
+              "natural-language-processing",
+              "nlp",
+              "paper",
+              "paper-list",
+              "prompt-tuning",
+              "promptkg",
+              "pytorch",
+              "question-answering",
+              "relation-extraction",
+              "retrieval-augmented",
+              "retrievalre",
+              "retroprompt"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -304,12 +553,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "REBEL is a seq2seq model that simplifies Relation Extraction (EMNLP 2021).",
+            "homepage": null,
             "id": 403631098,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-09T09:42:11Z",
+            "open_issues": 13,
             "owner": "Babelscape",
             "repo": "rebel",
-            "stars": 574
+            "stars": 574,
+            "topics": [
+              "entity-linking",
+              "natural-language-generation",
+              "natural-language-processing",
+              "nlp",
+              "relation-extraction"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -320,12 +580,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Document-level Entity-based Extraction as Template Generation (EMNLP 2021)",
+            "homepage": null,
             "id": 392433069,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-09-23T01:58:11Z",
+            "open_issues": 2,
             "owner": "PlusLabNLP",
             "repo": "TempGen",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -336,12 +601,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our NAACL-2022 paper DEGREE: A Data-Efficient Generation-Based Event Extraction Model.",
+            "homepage": null,
             "id": 479270586,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-25T01:54:20Z",
+            "open_issues": 4,
             "owner": "PlusLabNLP",
             "repo": "DEGREE",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -352,12 +622,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2021 Findings] HySPA: Hybrid Span Generation for Scalable Text-to-Graph Extraction",
+            "homepage": null,
             "id": 379331037,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-09-16T00:04:09Z",
+            "open_issues": 0,
             "owner": "renll",
             "repo": "HySPA",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -368,12 +643,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction",
+            "homepage": null,
             "id": 368449104,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-12T15:00:21Z",
+            "open_issues": 3,
             "owner": "luyaojie",
             "repo": "Text2Event",
-            "stars": 219
+            "stars": 219,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -384,12 +664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template Filling with Generative Transformers",
+            "homepage": null,
             "id": 354664109,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-08T14:23:40Z",
+            "open_issues": 0,
             "owner": "xinyadu",
             "repo": "gtt",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -400,12 +685,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 370090520,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-23T09:00:06Z",
+            "open_issues": 15,
             "owner": "yhcc",
             "repo": "BARTABSA",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -416,12 +706,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 370090575,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-22T08:42:39Z",
+            "open_issues": 18,
             "owner": "yhcc",
             "repo": "BARTNER",
-            "stars": 222
+            "stars": 222,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -432,12 +727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 288339013,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-04-10T17:39:53Z",
+            "open_issues": 1,
             "owner": "xinyadu",
             "repo": "grit_doc_event_entity",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -448,12 +748,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper \"Document-Level Argument Extraction by Conditional Generation\". NAACL 21'",
+            "homepage": null,
             "id": 357036112,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-03-28T02:03:45Z",
+            "open_issues": 10,
             "owner": "raspberryice",
             "repo": "gen-arg",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "event-extraction",
+              "information-extraction"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -464,12 +772,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Structured Prediction as Translation between Augmented Natural Languages",
+            "homepage": null,
             "id": 344601437,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-02-02T19:58:38Z",
+            "open_issues": 2,
             "owner": "amazon-science",
             "repo": "tanl",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "deep-learning",
+              "natural-language-processing",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -480,12 +797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code of our work, Intent Classification and Slot Filling for Privacy Policies [ACL 2021].",
+            "homepage": null,
             "id": 325396776,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-08-04T00:34:05Z",
+            "open_issues": 1,
             "owner": "wasiahmad",
             "repo": "PolicyIE",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -496,12 +818,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Autoregressive Entity Retrieval",
+            "homepage": null,
             "id": 301511303,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-06T06:48:28Z",
+            "open_issues": 16,
             "owner": "facebookresearch",
             "repo": "GENRE",
-            "stars": 801
+            "stars": 801,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -512,12 +839,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AAAI20 \"CopyMTL: Copy Mechanism for Joint Extraction of Entities and Relations with Multi-Task Learning\"",
+            "homepage": null,
             "id": 150834182,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-11-05T10:57:11Z",
+            "open_issues": 4,
             "owner": "WindChimeRan",
             "repo": "CopyMTL",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "aaai",
+              "aaai2020",
+              "acl",
+              "copynet",
+              "nyt",
+              "paper",
+              "pytorch",
+              "relation-extraction"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -528,12 +869,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for modeling encoder-decoder architecture with pointer network for joint entity and relation extraction (AAAI 2020).",
+            "homepage": null,
             "id": 220907894,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-02-28T03:08:23Z",
+            "open_issues": 0,
             "owner": "nusnlp",
             "repo": "PtrNetDecoding4JERE",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         },
@@ -544,12 +890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for ACL 2019 Paper: \"COMET: Commonsense Transformers for Automatic Knowledge Graph Construction\" https://arxiv.org/abs/1906.05317",
+            "homepage": null,
             "id": 190039121,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-17T17:14:24Z",
+            "open_issues": 4,
             "owner": "atcbosselut",
             "repo": "comet-commonsense",
-            "stars": 689
+            "stars": 689,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
         }
@@ -558,15 +909,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:15:27.488Z",
+    "last_updated": "2026-08-29T04:56:19.551Z",
     "original_repository_info": {
       "archived": false,
+      "description": "[EMNLP 2022] Generative Knowledge Graph Construction: A Review",
+      "homepage": null,
       "id": 454682725,
       "language": null,
+      "license": "MIT",
       "last_commit": "2023-07-11T10:37:38Z",
+      "open_issues": 0,
       "owner": "zjunlp",
       "repo": "Generative_KG_Construction_Papers",
-      "stars": 112
+      "stars": 112,
+      "topics": [
+        "awesome-list",
+        "chatgpt",
+        "event-extraction",
+        "generation",
+        "generative",
+        "genkgc",
+        "information-extraction",
+        "information-extration",
+        "knowledge-graph",
+        "named-entity-recognition",
+        "natural-language-generation",
+        "natural-language-processing",
+        "nlp",
+        "paper",
+        "paper-list",
+        "relation-extraction",
+        "relational-triple-extraction",
+        "review",
+        "structure-prediction",
+        "survey"
+      ]
     },
     "original_repository_sha": "05467abf59ce842e519ebd2ff0687fe125ced4b5",
     "enhanced_repository": "enhansome/enhansome-Generative_KG_Construction_Papers",
