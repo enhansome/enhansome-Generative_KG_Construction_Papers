@@ -562,7 +562,7 @@
             "open_issues": 13,
             "owner": "Babelscape",
             "repo": "rebel",
-            "stars": 574,
+            "stars": 575,
             "topics": [
               "entity-linking",
               "natural-language-generation",
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T15:04:06.941Z",
+    "last_updated": "2026-08-31T17:43:24.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "[EMNLP 2022] Generative Knowledge Graph Construction: A Review",
