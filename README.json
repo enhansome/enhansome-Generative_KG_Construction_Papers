@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "DeepKE",
-            "stars": 4475,
+            "stars": 4476,
             "topics": [
               "attribute-extraction",
               "chinese",
@@ -58,7 +58,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-07-14T12:47:07Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "zjunlp",
             "repo": "EasyEdit",
             "stars": 2910,
@@ -562,7 +562,7 @@
             "open_issues": 13,
             "owner": "Babelscape",
             "repo": "rebel",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "entity-linking",
               "natural-language-generation",
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:14:04.126Z",
+    "last_updated": "2026-09-02T14:45:01.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "[EMNLP 2022] Generative Knowledge Graph Construction: A Review",
