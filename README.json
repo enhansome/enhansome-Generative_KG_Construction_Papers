@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "DeepKE",
-            "stars": 4475,
+            "stars": 4477,
             "topics": [
               "attribute-extraction",
               "chinese",
@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "zjunlp",
             "repo": "EasyEdit",
-            "stars": 2911,
+            "stars": 2912,
             "topics": [
               "artificial-intelligence",
               "baichuan",
@@ -145,7 +145,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "PromptKG",
-            "stars": 733,
+            "stars": 734,
             "topics": [
               "awsome-list",
               "demo-tuning",
@@ -520,7 +520,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "PromptKG",
-            "stars": 733,
+            "stars": 734,
             "topics": [
               "awsome-list",
               "demo-tuning",
@@ -694,7 +694,7 @@
             "open_issues": 15,
             "owner": "yhcc",
             "repo": "BARTABSA",
-            "stars": 146,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:49:27.189Z",
+    "last_updated": "2026-09-07T16:07:02.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "[EMNLP 2022] Generative Knowledge Graph Construction: A Review",
