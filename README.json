@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "zjunlp",
             "repo": "EasyEdit",
-            "stars": 2919,
+            "stars": 2922,
             "topics": [
               "artificial-intelligence",
               "baichuan",
@@ -103,7 +103,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "Prompt4ReasoningPapers",
-            "stars": 1007,
+            "stars": 1008,
             "topics": [
               "arithmetic-reasoning",
               "artificial-intelligence",
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:17:35.303Z",
+    "last_updated": "2026-09-16T15:10:49.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "[EMNLP 2022] Generative Knowledge Graph Construction: A Review",
