@@ -57,7 +57,7 @@
             "id": 638156745,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-07-14T12:47:07Z",
+            "last_commit": "2026-09-24T08:01:21Z",
             "open_issues": 1,
             "owner": "zjunlp",
             "repo": "EasyEdit",
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T15:12:15.382Z",
+    "last_updated": "2026-09-24T15:31:12.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "[EMNLP 2022] Generative Knowledge Graph Construction: A Review",
