@@ -57,11 +57,11 @@
             "id": 638156745,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-03T13:46:23Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-04T08:32:35Z",
+            "open_issues": 1,
             "owner": "zjunlp",
             "repo": "EasyEdit",
-            "stars": 2928,
+            "stars": 2929,
             "topics": [
               "artificial-intelligence",
               "baichuan",
@@ -867,7 +867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:57:06.049Z",
+    "last_updated": "2026-10-04T15:31:06.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "[EMNLP 2022] Generative Knowledge Graph Construction: A Review",
