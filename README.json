@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "DeepKE",
-            "stars": 4485,
+            "stars": 4486,
             "topics": [
               "attribute-extraction",
               "chinese",
@@ -867,7 +867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:20:56.667Z",
+    "last_updated": "2026-10-16T15:01:23.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "[EMNLP 2022] Generative Knowledge Graph Construction: A Review",
