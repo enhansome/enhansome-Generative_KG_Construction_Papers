@@ -331,7 +331,7 @@
             "open_issues": 39,
             "owner": "universal-ie",
             "repo": "UIE",
-            "stars": 954,
+            "stars": 955,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
@@ -520,7 +520,7 @@
             "open_issues": 13,
             "owner": "Babelscape",
             "repo": "rebel",
-            "stars": 579,
+            "stars": 580,
             "topics": [
               "entity-linking",
               "natural-language-generation",
@@ -739,7 +739,7 @@
             "open_issues": 2,
             "owner": "amazon-science",
             "repo": "tanl",
-            "stars": 136,
+            "stars": 137,
             "topics": [
               "deep-learning",
               "natural-language-processing",
@@ -867,7 +867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T14:35:39.915Z",
+    "last_updated": "2026-10-26T17:01:32.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "[EMNLP 2022] Generative Knowledge Graph Construction: A Review",
