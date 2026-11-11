@@ -34,8 +34,8 @@ For more resources about knowledge graph construction, please check our tookit [
 
 ## *👋 News!*
 
-* We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,487 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,386 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,856 | 🐛 609 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
-* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,938 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-07, an easy-to-use framework to edit Large Language Models.
+* We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,487 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,386 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,854 | 🐛 609 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
+* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,938 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-07, an easy-to-use framework to edit Large Language Models.
 * We release a [survey](https://arxiv.org/abs/2212.09597) and [paper-list](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,010 | 🐛 0 | 📅 2025-05-21 for **reasoning with language model prompting**.
 * We release a prompt\&KG paper-list at [PromptKG](https://github.com/zjunlp/PromptKG) ⭐ 735 | 🐛 0 | 🌐 Python | 📅 2024-03-22.
 * Congratulations! Our work has been accepted by the EMNLP2022 main conference.
@@ -402,4 +402,4 @@ If you find this repository useful to your research or work, it is really apprec
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
