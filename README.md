@@ -34,8 +34,8 @@ For more resources about knowledge graph construction, please check our tookit [
 
 ## *👋 News!*
 
-* We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,487 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,384 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,847 | 🐛 609 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
-* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,941 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-07, an easy-to-use framework to edit Large Language Models.
+* We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,487 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,384 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,848 | 🐛 609 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
+* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,942 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-07, an easy-to-use framework to edit Large Language Models.
 * We release a [survey](https://arxiv.org/abs/2212.09597) and [paper-list](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,010 | 🐛 0 | 📅 2025-05-21 for **reasoning with language model prompting**.
 * We release a prompt\&KG paper-list at [PromptKG](https://github.com/zjunlp/PromptKG) ⭐ 735 | 🐛 0 | 🌐 Python | 📅 2024-03-22.
 * Congratulations! Our work has been accepted by the EMNLP2022 main conference.
@@ -374,7 +374,7 @@ The time for each paper is based on its first arXiv version (if exists) or estim
 | [SQUIRE: A Sequence-to-sequence Framework for Multi-hop Knowledge Graph Reasoning](https://arxiv.org/abs/2201.06206)                                                 | Structure-linearized |  EMNLP 2022 |                                                          -                                                         |
 | [REBEL: Relation Extraction By End-to-end Language generation](https://aclanthology.org/2021.findings-emnlp.204/)                                                    | Structure-linearized |  EMNLP 2021 |              [REBEL](https://github.com/babelscape/rebel) ⭐ 580 \| 🐛 12 \| 🌐 Python \| 📅 2023-11-09             |
 | [Document-level Entity-based Extraction as Template Generation](https://aclanthology.org/2021.emnlp-main.426/)                                                       |      Copy-based      |  EMNLP 2021 |             [TEMPGEN](https://github.com/PlusLabNLP/TempGen) ⭐ 29 \| 🐛 2 \| 🌐 Python \| 📅 2021-09-23            |
-| [DEGREE: A Data-Efficient Generation-Based Event Extraction Model](https://aclanthology.org/2022.naacl-main.138/)                                                    |      Blank-based     |  NAACL 2022 |              [DEGREE](https://github.com/PlusLabNLP/DEGREE) ⭐ 82 \| 🐛 4 \| 🌐 Python \| 📅 2024-06-25             |
+| [DEGREE: A Data-Efficient Generation-Based Event Extraction Model](https://aclanthology.org/2022.naacl-main.138/)                                                    |      Blank-based     |  NAACL 2022 |              [DEGREE](https://github.com/PlusLabNLP/DEGREE) ⭐ 83 \| 🐛 4 \| 🌐 Python \| 📅 2024-06-25             |
 | [HySPA: Hybrid Span Generation for Scalable Text-to-Graph Extraction](https://aclanthology.org/2021.findings-acl.356/)                                               | Structure-linearized |   ACL 2021  |                  [HySPA](https://github.com/renll/HySPA) ⭐ 9 \| 🐛 0 \| 🌐 Python \| 📅 2021-09-16                 |
 | [Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction](https://aclanthology.org/2021.acl-long.217/)                             | Structure-linearized |   ACL 2021  |          [Text2Event](https://github.com/luyaojie/text2event) ⭐ 219 \| 🐛 3 \| 🌐 Python \| 📅 2022-07-12          |
 | [Template Filling with Generative Transformers](https://aclanthology.org/2021.naacl-main.70/)                                                                        |      Blank-based     |  NAACL 2021 |                  [GTT](https://github.com/xinyadu/gtt) ⭐ 22 \| 🐛 0 \| 🌐 Python \| 📅 2021-06-08                  |
@@ -402,4 +402,4 @@ If you find this repository useful to your research or work, it is really apprec
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
