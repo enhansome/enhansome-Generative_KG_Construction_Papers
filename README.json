@@ -857,7 +857,7 @@
             "open_issues": 4,
             "owner": "atcbosselut",
             "repo": "comet-commonsense",
-            "stars": 688,
+            "stars": 689,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.488Z"
@@ -867,7 +867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T17:27:37.480Z",
+    "last_updated": "2026-11-16T20:41:49.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "[EMNLP 2022] Generative Knowledge Graph Construction: A Review",
