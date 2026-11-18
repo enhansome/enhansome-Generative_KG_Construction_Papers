@@ -145,7 +145,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "PromptKG",
-            "stars": 735,
+            "stars": 734,
             "topics": [
               "awsome-list",
               "demo-tuning",
@@ -478,7 +478,7 @@
             "open_issues": 0,
             "owner": "zjunlp",
             "repo": "PromptKG",
-            "stars": 735,
+            "stars": 734,
             "topics": [
               "awsome-list",
               "demo-tuning",
@@ -867,7 +867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:26:43.611Z",
+    "last_updated": "2026-11-18T19:08:47.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "[EMNLP 2022] Generative Knowledge Graph Construction: A Review",
