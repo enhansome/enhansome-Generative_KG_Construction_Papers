@@ -30,13 +30,13 @@ We present the advantages and weaknesses of each paradigm in terms of different 
 Based on the review, we suggest promising research directions for the future. Our contributions are threefold: (1) We present a detailed, complete taxonomy for the generative KGC methods;
 (2) We provide a theoretical and empirical analysis of the generative KGC methods;
 (3) We propose several research directions that can be developed in the future.
-For more resources about knowledge graph construction, please check our tookit [DeepKE](https://github.com/zjunlp/DeepKE) ⭐ 4,487 | 🐛 0 | 🌐 Python | 📅 2026-07-13.
+For more resources about knowledge graph construction, please check our tookit [DeepKE](https://github.com/zjunlp/DeepKE) ⭐ 4,486 | 🐛 0 | 🌐 Python | 📅 2026-07-13.
 
 ## *👋 News!*
 
-* We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,487 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,384 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,847 | 🐛 609 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
-* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,944 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-07, an easy-to-use framework to edit Large Language Models.
-* We release a [survey](https://arxiv.org/abs/2212.09597) and [paper-list](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,010 | 🐛 0 | 📅 2025-05-21 for **reasoning with language model prompting**.
+* We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,486 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,383 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,847 | 🐛 609 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
+* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,943 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-07, an easy-to-use framework to edit Large Language Models.
+* We release a [survey](https://arxiv.org/abs/2212.09597) and [paper-list](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,009 | 🐛 0 | 📅 2025-05-21 for **reasoning with language model prompting**.
 * We release a prompt\&KG paper-list at [PromptKG](https://github.com/zjunlp/PromptKG) ⭐ 734 | 🐛 0 | 🌐 Python | 📅 2024-03-22.
 * Congratulations! Our work has been accepted by the EMNLP2022 main conference.
 * Due to the rise of generative extraction methods in the NLP community，we summarize recent progress in generative KGC and release our paper  on [arivx](https://arxiv.org/pdf/2210.12714.pdf).
@@ -393,7 +393,7 @@ The time for each paper is based on its first arXiv version (if exists) or estim
 | [Learning the Extraction Order of Multiple Relational Facts in a Sentence with Reinforcement Learning](https://aclanthology.org/D19-1035/)                           |      Copy-based      |  EMNLP 2019 |                                                          -                                                         |
 | [Neural Architectures for Nested NER through Linearization](https://aclanthology.org/P19-1527/)                                                                      | Structure-linearized |   ACL 2019  |                                                          -                                                         |
 | [Exploring Sequence-to-Sequence Learning in Aspect Term Extraction](https://aclanthology.org/P19-1344/)                                                              |  Structure-linearize |   ACL 2019  |                                                          -                                                         |
-| [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://aclanthology.org/P19-1470/)                                                     |      Blank-based     |   ACL 2019  |        [COMET](https://github.com/atcbosselut/comet-commonsense) ⭐ 689 \| 🐛 4 \| 🌐 Python \| 📅 2022-11-17       |
+| [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://aclanthology.org/P19-1470/)                                                     |      Blank-based     |   ACL 2019  |        [COMET](https://github.com/atcbosselut/comet-commonsense) ⭐ 688 \| 🐛 4 \| 🌐 Python \| 📅 2022-11-17       |
 | [Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism](https://aclanthology.org/P18-1047/)                                                  |      Copy-based      |   ACL 2018  |                                                          -                                                         |
 
 ## 🌟 TIPS
@@ -402,4 +402,4 @@ If you find this repository useful to your research or work, it is really apprec
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
