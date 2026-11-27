@@ -30,12 +30,12 @@ We present the advantages and weaknesses of each paradigm in terms of different 
 Based on the review, we suggest promising research directions for the future. Our contributions are threefold: (1) We present a detailed, complete taxonomy for the generative KGC methods;
 (2) We provide a theoretical and empirical analysis of the generative KGC methods;
 (3) We propose several research directions that can be developed in the future.
-For more resources about knowledge graph construction, please check our tookit [DeepKE](https://github.com/zjunlp/DeepKE) ⭐ 4,486 | 🐛 0 | 🌐 Python | 📅 2026-07-13.
+For more resources about knowledge graph construction, please check our tookit [DeepKE](https://github.com/zjunlp/DeepKE) ⭐ 4,484 | 🐛 0 | 🌐 Python | 📅 2026-07-13.
 
 ## *👋 News!*
 
-* We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,486 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,384 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,844 | 🐛 609 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
-* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,948 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-11-07, an easy-to-use framework to edit Large Language Models.
+* We release [DeepKE-LLM](https://github.com/zjunlp/DeepKE/tree/main/example/llm) ⭐ 4,484 | 🐛 0 | 🌐 Python | 📅 2026-07-13 to support **knowledge extraction** with [KnowLM](https://github.com/zjunlp/KnowLM) ⭐ 1,384 | 🐛 0 | 🌐 Python | 📅 2025-01-11, [ChatGLM](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,842 | 🐛 609 | 🌐 Python | 📅 2024-06-27, LLaMA-series, GPT-series etc.
+* We release [EasyEdit](https://github.com/zjunlp/EasyEdit) ⭐ 2,947 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-11-07, an easy-to-use framework to edit Large Language Models.
 * We release a [survey](https://arxiv.org/abs/2212.09597) and [paper-list](https://github.com/zjunlp/Prompt4ReasoningPapers) ⭐ 1,009 | 🐛 0 | 📅 2025-05-21 for **reasoning with language model prompting**.
 * We release a prompt\&KG paper-list at [PromptKG](https://github.com/zjunlp/PromptKG) ⭐ 734 | 🐛 0 | 🌐 Python | 📅 2024-03-22.
 * Congratulations! Our work has been accepted by the EMNLP2022 main conference.
@@ -388,7 +388,7 @@ The time for each paper is based on its first arXiv version (if exists) or estim
 | [Augmented Natural Language for Generative Sequence Labeling](https://aclanthology.org/2020.emnlp-main.27/)                                                          |    Label-augmented   |  EMNLP 2020 |                                                          -                                                         |
 | [Contrastive Information Extraction With Generative Transformer](https://ieeexplore.ieee.org/document/9537684)                                                       | Structure-linearized |  TASLP 2021 |                                                          -                                                         |
 | [Don’t Parse, Generate! A Sequence to Sequence Architecture for Task-Oriented Semantic Parsing](https://dl.acm.org/doi/10.1145/3366423.3380064)                      |     Indice-based     |   WWW 2022  |                                                          -                                                         |
-| [CopyMTL: Copy Mechanism for Joint Extraction of Entities and Relations with Multi-Task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/6495)             |      Copy-based      |  AAAI 2020  |           [CopyMTL](https://github.com/WindChimeRan/CopyMTL) ⭐ 128 \| 🐛 4 \| 🌐 Python \| 📅 2020-11-05           |
+| [CopyMTL: Copy Mechanism for Joint Extraction of Entities and Relations with Multi-Task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/6495)             |      Copy-based      |  AAAI 2020  |           [CopyMTL](https://github.com/WindChimeRan/CopyMTL) ⭐ 127 \| 🐛 4 \| 🌐 Python \| 📅 2020-11-05           |
 | [Effective Modeling of Encoder-Decoder Architecture for Joint Entity and Relation Extraction](https://ojs.aaai.org/index.php/AAAI/article/view/6374)                 |     Indice-based     |  AAAI 2020  |         [PNDec](https://github.com/nusnlp/PtrNetDecoding4JERE) ⭐ 105 \| 🐛 0 \| 🌐 Python \| 📅 2020-02-28         |
 | [Learning the Extraction Order of Multiple Relational Facts in a Sentence with Reinforcement Learning](https://aclanthology.org/D19-1035/)                           |      Copy-based      |  EMNLP 2019 |                                                          -                                                         |
 | [Neural Architectures for Nested NER through Linearization](https://aclanthology.org/P19-1527/)                                                                      | Structure-linearized |   ACL 2019  |                                                          -                                                         |
@@ -402,4 +402,4 @@ If you find this repository useful to your research or work, it is really apprec
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
